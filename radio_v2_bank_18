@@ -5,7 +5,7 @@ VESTI FM               Bank 18 Stacja 4   https://icecast-vgtrk.cdnvideo.ru:443/
 MAYAK                  Bank 18 Stacja 5   http://icecast.vgtrk.cdnvideo.ru:80/mayakfm_mp3_192kbps
 URALSOUND              Bank 18 Stacja 6   http://62.16.40.250:8000/uralsoundfm
 Radio ROSSII           Bank 18 Stacja 7   http://icecast.vgtrk.cdnvideo.ru:80/rrzonam_mp3_192kbps
-Nostalgiya FM          Bank 18 Stacja 8   http://93.189.147.117:8000/nostalgiafm.mp3
+GOVORIT MOSKVA         Bank 18 Stacja 8   http://video.govoritmoskva.ru:8880/rufm.mp3
 MILICEYISKAYA VOLNA    Bank 18 Stacja 9   http://radio.mvd.ru:8000/mv128.mp3
 Hit FM - Moskva        Bank 18 Stacja 10  http://hitfm.hostingradio.ru/hitfm96.aacp
 Radio dlya dvoih - S   Bank 18 Stacja 11  http://icecast-radiofortwo.cdnvideo.ru/radiofortwo
@@ -96,4 +96,5 @@ Business FM            Bank 18 Stacja 96  http://bfmstream.bfm.ru:8004/fm32
 Radio Fantastiki       Bank 18 Stacja 97  http://fantasyradioru.no-ip.biz:8008
 Nashe Radio - NAShE    Bank 18 Stacja 98  http://nashe1.hostingradio.ru/nashe20-128.mp3
 Retro FM - Moskva      Bank 18 Stacja 99  http://retroserver.streamr.ru:8043/retro64
+
 Radio Caprice -        Bank 18 Stacja 100 http://79.120.39.202:9031
