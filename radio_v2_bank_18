@@ -12,11 +12,11 @@ Radio dlya dvoih - S   Bank 18 Stacja 11  http://icecast-radiofortwo.cdnvideo.ru
 EVROPA PLUS EKAT       Bank 18 Stacja 12  http://online-1.gkvr.ru:8000/europa_eka_64.aac
 MK                     Bank 18 Stacja 13  http://online-1.gkvr.ru:8000/mc_eka_64.aac
 JAZZ                   Bank 18 Stacja 15  http://jazz-wr14.ice.infomaniak.ch:80/jazz-wr14-128.mp3
-Umnoe radio            Bank 18 Stacja 16  http://radio.sarov.info:8010/clever-radio
+MARUSIYA               Bank 18 Stacja 16  https://h1.marus.fm/hls/128.m3u8
 RECORD EKAT            Bank 18 Stacja 17  http://online-1.gkvr.ru:8000/record_eka_64.aac
 RADIO SHANSON          Bank 18 Stacja 18  http://chanson.hostingradio.ru:8041/chanson256.mp3
 Dorozhnoe radio - Mos  Bank 18 Stacja 19  http://dor2server.streamr.ru:8000/dor_64_no
-Noise FM - Modern El   Bank 18 Stacja 20  http://noisefm.ru:8000/play_256
+EVROPA PLUS EKAT       Bank 18 Stacja 20  http://online-1.gkvr.ru:8000/europa_eka_64.aac
 RussianFM.de | 24/7h   Bank 18 Stacja 21  http://radio.russianfm.de:8000
 Evropa Plyus - Mosk    Bank 18 Stacja 22  http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 New Life Radio - Radi  Bank 18 Stacja 23  http://ic2.christiannetcast.com/nlradio
@@ -98,3 +98,4 @@ Nashe Radio - NAShE    Bank 18 Stacja 98  http://nashe1.hostingradio.ru/nashe20-
 Retro FM - Moskva      Bank 18 Stacja 99  http://retroserver.streamr.ru:8043/retro64
 
 Radio Caprice -        Bank 18 Stacja 100 http://79.120.39.202:9031
+
